@@ -60,7 +60,7 @@ public class MainActivity extends AppCompatActivity {
                 number += "9";
                 break;
             case R.id.dot:
-                number+=".";
+                number += ".";
                 break;
             case R.id.PlusMinus:
                     number = String.valueOf(Double.parseDouble(number)*-1);

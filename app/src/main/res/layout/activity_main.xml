@@ -197,7 +197,7 @@
                 android:id="@+id/dot"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:onClick="operatorEvent"
+                android:onClick="numberEvent"
                 android:text="."
                 android:textSize="22sp" />
 
